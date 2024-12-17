@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#video-container {
+    margin-bottom: 20px;
+}
+
+#instance-info {
+    font-size: 16px;
+    color: #333;
+}
